@@ -14,7 +14,7 @@ Paleta de cores:
   box-sizing: border-box;
 }
 
-body {
+main {
   background-image: linear-gradient(
     to bottom left,
     #942a48,
@@ -23,4 +23,9 @@ body {
     #6e2f40,
     #612f3d
   );
+
+  background-repeat: no-repeat;
+
+  width: 100vw;
+  height: 70vh;
 }
