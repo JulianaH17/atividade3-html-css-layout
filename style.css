@@ -15,11 +15,14 @@ Paleta de cores:
 }
 
 body {
-  background: #612f3d;
-  background: linear-gradient(
-    33deg,
-    rgba(97, 47, 61, 1) 0%,
-    rgba(148, 42, 72, 1) 4%,
-    rgba(250, 170, 193, 1) 100%
+    width: 1000vw;
+    height: 100vh;
+  background-image: linear-gradient(
+    to bottom left,
+    #942a48,
+    #872c46,
+    #7a2e43,
+    #6e2f40,
+    #612f3d
   );
 }
