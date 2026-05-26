@@ -1,5 +1,32 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+=======
+/* 
+Paleta de cores:
+
+#942A48 (Cards escuro)
+#612F3D (Body)
+#FAAAC1 (Cards claro)
+#FFB8CC (Sombra de Card claro)
+#FFE0E9 (Texto claro)
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #612f3d;
+  background: linear-gradient(
+    33deg,
+    rgba(97, 47, 61, 1) 0%,
+    rgba(148, 42, 72, 1) 4%,
+    rgba(250, 170, 193, 1) 100%
+  );
+>>>>>>> b1576d789fc98ef6f3e3e7c3fccd27538fcb0e3a
 }
