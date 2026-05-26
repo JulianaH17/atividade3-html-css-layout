@@ -14,15 +14,6 @@ Paleta de cores:
   box-sizing: border-box;
 }
 
-body {
-    width: 1000vw;
-    height: 100vh;
-  background-image: linear-gradient(
-    to bottom left,
-    #942a48,
-    #872c46,
-    #7a2e43,
-    #6e2f40,
-    #612f3d
-  );
+#main{
+    background-color: red;
 }
