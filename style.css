@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-=======
 /* 
 Paleta de cores:
 
@@ -28,5 +22,4 @@ body {
     rgba(148, 42, 72, 1) 4%,
     rgba(250, 170, 193, 1) 100%
   );
->>>>>>> b1576d789fc98ef6f3e3e7c3fccd27538fcb0e3a
 }
