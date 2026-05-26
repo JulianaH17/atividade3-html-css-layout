@@ -26,6 +26,32 @@ main {
 
   background-repeat: no-repeat;
 
-  width: 100vw;
-  height: 70vh;
+  width: 100%;
+  height: 100%;
+}
+
+.box{
+display: flex;
+
+    width: 150px;
+    height: 150px;
+    background-color: #FAAAC1;
+    border-radius: 10px;
+
+    justify-content: center;
+
+    margin-top: 5px;
+    padding: 10px;
+
+}   
+
+.container{
+    width: 80%;
+    height: 100%;
+
+    background-color: white;
+
+    border-radius: 15px;
+
+    padding: 20px;
 }
